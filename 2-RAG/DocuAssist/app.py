@@ -176,6 +176,3 @@ elif choice == "📧 Contact":
     If you'd like to request a feature or report a bug, please open a pull request on our GitHub repository. Your contributions are highly appreciated! 🙌
     """)
 
-# Footer
-st.markdown("---")
-st.markdown("© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️")
