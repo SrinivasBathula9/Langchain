@@ -40,3 +40,6 @@ qdrant-client
 langchain-experimental 
 neo4j
 json-repair
+agentops==0.2.6
+git+https://github.com/AgentOps-AI/crewAI.git@main
+crewai[tools]
